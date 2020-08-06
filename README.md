@@ -3,15 +3,15 @@
   <br/>[![Linkedin Badge](https://img.shields.io/badge/-Igor_Semphoski_de_Assis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-semphoski-de-assis-2a9b3618a/)](https://www.linkedin.com/in/igor-semphoski-de-assis-2a9b3618a/) 
 [![Gmail Badge](https://img.shields.io/badge/-igorsemphoski@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorsemphoski@gmail.com)](mailto:igorsemphoski@gmail.com)
 
-## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação. :satisfied:
- <br/>:coffee: &nbsp;Café é o meu combustível :coffee:
- <br/>:computer: &nbsp;FullStack Developer.
+## Hello world 👋
+:satisfied: &nbsp;I am passionate about solving problems using programming. &nbsp;:satisfied:
+ <br/>:coffee: &nbsp;Coffee is my fuel &nbsp;:coffee:
+ <br/>:computer: &nbsp;FullStack Developer. &nbsp;:computer:
 
-:computer: &nbsp; Atualmente estudando para me tornar um developer java.
- <br/> :point_right: &nbsp; Curto tecnologia, astronomia :telescope:, eletrônica, séries e filmes e tudo o que há de bom no mundo!
+:books: &nbsp; Currently studying to become a java developer &nbsp; :books:
+ <br/> :point_right: &nbsp; Short technology, astronomy :telescope:, electronics, series and films and everything good in the world! &nbsp; :point_left:
 
-<h2>Tecnologias: </h2>
+  <h2>My knowledge: </h2>
 <table>
   <tbody>
     <tr valign="top">
