@@ -15,24 +15,19 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="200px" align="center">
-        <span>Javascript</span><br><br>
+      <td width="120px" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="200px" align="center">
-        <span>HTML5</span><br><br>
+      <td width="120px" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="200px" align="center">
-        <span>CSS3</span><br><br>
+      <td width="120px" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="200px" align="center">
-        <span>MySql</span><br><br>
+      <td width="120px" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
-      <td width="200px" align="center">
-        <span>Java</span><br><br>
+      <td width="120px" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
      </td>
     </tr>
