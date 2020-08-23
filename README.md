@@ -6,12 +6,12 @@
 ## Hello world 👋
 :satisfied: &nbsp;I am passionate about solving problems using programming. &nbsp;:satisfied:
  <br/>:coffee: &nbsp;Coffee is my fuel &nbsp;:coffee:
- <br/>:computer: &nbsp;FullStack Developer. &nbsp;:computer:
+ <br/>:computer: &nbsp;FullStack Developer: Java, ReactJs, React Native. &nbsp;:computer:
 
 :books: &nbsp; Currently studying to become a java developer &nbsp; :books:
  <br/> :point_right: &nbsp; Short technology, astronomy :telescope:, electronics, series and films and everything good in the world! &nbsp; :point_left:
 
-  <h2>My knowledge: </h2>
+  <h2>Technologies: </h2>
 <table>
   <tbody>
     <tr valign="top">
