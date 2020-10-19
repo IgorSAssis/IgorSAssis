@@ -25,7 +25,7 @@
  <br/>:coffee: &nbsp;Coffee is my fuel &nbsp;
  <br/>:computer: &nbsp;Currently I am studying about Java, Spring boot, ReactJs, NodeJs and React Native.
 
-  <h2>My knowledge: </h2>
+  <h2>My skills: </h2>
 <table>
   <tbody>
     <tr valign="top">
