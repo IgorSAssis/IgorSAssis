@@ -21,9 +21,10 @@
 
 ## Hello world 👋
 
-:satisfied: &nbsp;I am passionate about solving problems using programming.
+:space_invader: &nbsp;I am passionate about solving problems using programming.
  <br/>:coffee: &nbsp;Coffee is my fuel &nbsp;
- <br/>:computer: &nbsp;Currently I am studying about Java, Spring boot, ReactJs, NodeJs and React Native.
+ <br/>:computer: &nbsp;Currently I am studying about **Java, Spring boot, ReactJs, NodeJs and React Native.**
+ <br/> :gem: **I'm currently available for work.**
 
   <h2>My skills: </h2>
 <table>
