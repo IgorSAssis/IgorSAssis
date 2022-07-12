@@ -23,13 +23,13 @@
 
 ### 🗃️ Database
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=1188f0)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-![MYSQL](https://img.shields.io/badge/-MYSQL-333333?style=flat&logo=mysql)
+![MYSQL](https://img.shields.io/badge/-MYSQL-333333?style=flat&logo=mysql&&logoColor=17cdff)
 
 ### 🧪 Automated tests
 
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=db210f)
 ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium&logoColor=f42222)
 ![CodeceptJs](https://img.shields.io/badge/-CodeceptJs-333333?style=flat&logo=codeceptjs&logoColor=ecfa23)
 
