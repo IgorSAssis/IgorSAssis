@@ -40,6 +40,7 @@
 
 ### 📋 Other
 
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=eb4e15)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=1e60e6)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=fff)
 ![C](https://img.shields.io/badge/-C_lang-333333?style=flat&logo=c&logoColor=fff)
