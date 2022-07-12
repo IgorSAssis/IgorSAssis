@@ -38,6 +38,13 @@
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FFF)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-333333?style=flat&logo=manjaro&logoColor=33d644)
 
+### 📋 Other
+
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=1e60e6)
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=fff)
+![C](https://img.shields.io/badge/-C_lang-333333?style=flat&logo=c&logoColor=fff)
+![Cplusplus](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=1e60e6)
+
 ## 📱 Where to find me
 <p align="center">
   <a href="https://www.linkedin.com/in/igor-semphoski-de-assis-2a9b3618a/">
