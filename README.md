@@ -38,7 +38,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FFF)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-333333?style=flat&logo=manjaro&logoColor=33d644)
 
-### 📋 Other
+### 📋 Others
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=eb4e15)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=1e60e6)
