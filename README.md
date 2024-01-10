@@ -59,6 +59,6 @@
   <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=IgorSAssis&count_private=true&show_icons=true&theme=tokyonight&custom_title=Github%20Status" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSAssis&layout=compact&theme=tokyonight" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSAssis&layout=compact&theme=tokyonight" />
 </a>
 </p>
