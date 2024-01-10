@@ -40,7 +40,7 @@
 ![Cplusplus](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=1e60e6)
 
 ## 📱 Where to find me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/igor-semphoski-de-assis-2a9b3618a/">
     <img src="https://img.shields.io/badge/-Igor_Semphoski_de_Assis-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-semphoski-de-assis-2a9b3618a/" />
   </a>
