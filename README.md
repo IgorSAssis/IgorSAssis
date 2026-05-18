@@ -96,9 +96,6 @@
 
 <div align="center">
 
-> ⚠️ Para ativar a cobrinha, crie o workflow em `.github/workflows/snake.yml`
-> ([veja como configurar](https://github.com/Platane/snk))
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorSAssis/IgorSAssis/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorSAssis/IgorSAssis/output/github-contribution-grid-snake.svg" />
@@ -110,16 +107,6 @@
 ---
 
 <div align="center">
-
-### 💬 Quote of the day
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<br/>
-
-**"First, solve the problem. Then, write the code."** — John Johnson
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b27&height=120&section=footer"/>
 
